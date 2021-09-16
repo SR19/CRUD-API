@@ -1,0 +1,22 @@
+* crud api is created using django framework in Python.
+-PUT
+-POST
+-DELETE
+-GET
+
+*Register.html & Login.html are the web page templates
+
+* sql Workbench is used to create database
+
+* POSTMAN is used to test the api
+.
+.
+.
+.
+.
+.
+.
+.
+/
+* There still alot to do in this project, html templates are not connected to database yet.
+/
